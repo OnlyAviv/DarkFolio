@@ -1,0 +1,15 @@
+title: Github User
+author: Github User # Your name!
+avatar: ../img/avatar.png ## Your Avatar
+name_color: Red ##The color of your name
+email: Your Email!
+
+about: I love to code using <code>JavaScript</code>, <code>HTML</code> and <code>Python</code> ## Details
+description: >
+  Your amazing description!
+
+projects:
+  - { name: "Project", repo: "Project Repo", image: "Project Image", website: "Website", package: "Package", details: "Description (You can use HTML elements)" }
+
+social_links:
+  github: GitHub User
