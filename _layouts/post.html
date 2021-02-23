@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <header class="body-anim-start">
+      <div class="divheader d-flex flex-column justify-content-center align-items-center" style="min-height: 50vh">
+          <h1 class="text-light big-header"></h1>
+          <br>
+          <br>
+          <br>
+          <br>
+          <i style="color: white; display: none; font-size: 50px" class="sdc fas fa-chevron-down"></i>
+      </div>
+    </header>
+    <div class="align-items-center pagebody">
+      <div style="margin-top: 50px; padding-left: 25px; padding-right: 25px" class="d-flex flex-column align-items-center">
+        {{ content }}
+      </div>
+    </div>
+    <footer class="bg-light text-center text-dark" style="padding-left: 10px; padding-right: 10px">
+      {% if page.author %}
+        <h3>Written by {{ page.author }} on {{ page.date | date: "%b %-d, %Y" }}</h3>
+      {% else %}
+      <h3>Written by anonymous on {{ page.date | date: "%b %-d, %Y" }}</h3>
+      {% endif %}
+    </footer>
+    <footer class="py-2 bg-dark text-center" style="z-index: 100">
+        <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
+    </footer>
+  </body>
+</html>

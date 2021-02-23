@@ -20,3 +20,20 @@
   opacity: 0;
   transform: translateY(200px);
 }
+.post-list{
+  text-align: center;
+  justify-content: center;
+  padding-top:2.5em;
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -ms-flex-wrap:wrap;flex-wrap:
+  wrap;-webkit-box-flex:1;
+  -ms-flex:1 0 auto;
+  flex:1 0 auto
+}
+  @media only screen and (min-width: 48em){.
+    post-list {
+      padding-top:5em
+    }
+  }
