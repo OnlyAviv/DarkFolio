@@ -1,6 +1,6 @@
 ## Portfolio Theme
 For a live demo, see my website, as it uses this theme.
-[redyetidev.github.io/](https://redyetidev.github.io/)
+[redyetidev.github.io](https://redyetidev.github.io)
 ### To Install
 1. Fork The Repo
 2. Clone the repo using `git clone https://github.com/YOUR_USERNAME/Portfolio-Theme`
