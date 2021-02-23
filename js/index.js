@@ -3,7 +3,6 @@ window.onload = function() {
   var $wordList = ("Hello 👋, I am " + $('.author').text()).split("");
   $wordList[6] = "👋"
   delete $wordList[7]
-  console.log($wordList)
   $.each($wordList, function(idx, elem) {
     //create a span for the letter and set opacity to 0
     if (idx > 14) {
