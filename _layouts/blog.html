@@ -16,7 +16,7 @@
     </header>
     <div class="post-list" style="overflow-y: hidden">
       {% for post in site.posts %}
-        <div class="card" style="width: 18rem; cursor: pointer;" onclick="location.href='{{ post.url }}'">
+        <div class="card" style="width: 18rem; cursor: pointer;" onclick="location.href='{{ site.path }}/{{ post.url }}'">
           {% if post.image %}
             <img class="card-img-top" alt="{{ post.title }}" src="{{ post.image }}" height="300px"/>
           {% else %}

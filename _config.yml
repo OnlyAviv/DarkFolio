@@ -3,6 +3,7 @@ author: Github User # Your name!
 avatar: ../img/avatar.png ## Your Avatar
 name_color: Red ##The color of your name
 email: Your Email!
+path: Portfolio-Theme
 
 about: I love to code using <code>JavaScript</code>, <code>HTML</code> and <code>Python</code> ## Details
 description: >
