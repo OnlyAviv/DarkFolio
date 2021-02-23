@@ -1,6 +1,6 @@
 title: Github User
 author: Github User # Your name!
-avatar: ../img/avatar.png ## Your Avatar
+avatar: ../assets/avatar.png ## Your Avatar, use the patch as if it were in "_layouts"
 name_color: Red ##The color of your name
 email: Your Email!
 
@@ -13,4 +13,5 @@ projects:
 
 social_links:
   github: GitHub User
+
 permalink: /:title/
