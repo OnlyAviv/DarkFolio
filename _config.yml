@@ -1,17 +1,18 @@
-title: Github User
-author: Github User # Your name!
-avatar: ../assets/avatar.png ## Your Avatar, use the patch as if it were in "_layouts"
-name_color: Red ##The color of your name
-email: Your Email!
+title: DarkFolio
+author: DarkFolio # Your name!
+avatar: ../assets/avatar.svg ## Your Avatar, use the patch as if it were in "_layouts"
+name_color: Yellow ##The color of your name
 
-about: I love to code using <code>JavaScript</code>, <code>HTML</code> and <code>Python</code> ## Details
+about: I am a Jekyll Theme by RedYetiDev. I contain a blog page, a index page, and a project page.
 description: >
   Your amazing description!
 
 projects:
-  - { name: "Project", repo: "Project Repo", image: "Project Image", website: "Website", package: "Package", details: "Description (You can use HTML elements)" }
+  - { name: "DarkFolio", repo: "https://github.com/RedYetiDev/DarkFolio", image: "../assets/DarkFolio.svg", website: "https://redyetidev.github.io/DarkFolio", details: I am a Jekyll Theme by RedYetiDev. I contain a blog page, a index page, and a project page." }
 
 social_links:
-  github: GitHub User
+  github: RedYetiDev/DarkFolio
 
 permalink: /:title/
+sass:
+    sass_dir: _sass

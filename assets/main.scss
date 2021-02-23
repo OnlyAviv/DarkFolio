@@ -1,3 +1,8 @@
+---
+---
+
+@import "syntax";
+
 .divheader {
   transform: background-color 2s;
   background-color:#292b2c
@@ -33,7 +38,8 @@
   -ms-flex:1 0 auto;
   flex:1 0 auto
 }
-  @media only screen and (min-width: 48em){.
-    post-list {
-      padding-top:5em
-    }
+@media only screen and (min-width: 48em){
+  post-list {
+    padding-top:5em
+  }
+}
