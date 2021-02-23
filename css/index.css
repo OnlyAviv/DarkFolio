@@ -20,6 +20,9 @@
   opacity: 0;
   transform: translateY(200px);
 }
+ul {
+  background-color:#292b2c
+}
 .post-list{
   text-align: center;
   justify-content: center;
@@ -36,4 +39,3 @@
     post-list {
       padding-top:5em
     }
-  }
