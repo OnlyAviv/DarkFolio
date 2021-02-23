@@ -1,4 +1,4 @@
-## Portfolio Theme
+## DarkFolio Theme
 For a live demo, see my website, as it uses this theme.
 [redyetidev.github.io](https://redyetidev.github.io)
 ### To Install
