@@ -39,16 +39,6 @@ window.onload = function() {
     },
     backgroundColor: "white",
   })
-  gsap.to("ul", {
-    scrollTrigger: {
-      trigger: ".divheader",
-      start: "bottom-=300 top",
-      end: "bottom-=200 top",
-      scrub: true,
-      toggleActions: "restart none reverse none"
-    },
-    opacity: 1,
-  })
 }
 
 $(window).on('beforeunload', function() {

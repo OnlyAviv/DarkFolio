@@ -14,9 +14,6 @@
           <i style="color: white; display: none; font-size: 50px" class="sdc fas fa-chevron-down"></i>
       </div>
     </header>
-    <ul class="nav position-fixed" style="z-index:10; top: 0; width: 100%">
-      <a class="nav-link text-light" aria-current="page" href="..">Go Home</a>
-    </ul>
     <div class="post-list" style="overflow-y: hidden">
       {% for post in site.posts %}
         <div class="card" style="width: 18rem; cursor: pointer;" onclick="location.href='../{{ post.url }}'">
