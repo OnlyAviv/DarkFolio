@@ -24,8 +24,10 @@
       <h3>Written by anonymous on {{ page.date | date: "%b %-d, %Y" }}</h3>
       {% endif %}
     </footer>
-    <footer class="py-2 bg-dark text-center" style="z-index: 100">
-        <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
-    </footer>
+    <nav class="navbar navbar-light bg-dark" style="width: 100%; padding-left: 25px; position: fixed; bottom: 0%">
+      <a class="navbar-brand text-light" href="..">Go Home</a>
+      <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
+      <a class="navbar-brand text-light" href="../blog">Back to blog</a>
+    </nav>
   </body>
 </html>
