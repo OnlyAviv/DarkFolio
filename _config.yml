@@ -1,7 +1,7 @@
 title: DarkFolio
 author: DarkFolio # Your name!
 baseurl: DarkFolio
-avatar: ../assets/avatar.svg ## Your Avatar, use the patch as if it were in "_layouts"
+avatar: assets/avatar.svg ## Your Avatar, use the patch as if it were in "_layouts"
 name_color: Yellow ##The color of your name
 
 about: I am a Jekyll Theme by RedYetiDev. I contain a blog page, a index page, and a project page.
