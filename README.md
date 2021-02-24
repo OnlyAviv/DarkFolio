@@ -1,6 +1,5 @@
 ## Portfolio Theme
-For a live demo, see my website, as it uses this theme.
-[redyetidev.github.io](https://redyetidev.github.io)
+[live demo](https://redyetidev.github.io/DarkFolio)
 ### To Install
 1. Fork The Repo
 2. Clone the repo using `git clone https://github.com/YOUR_USERNAME/Portfolio-Theme`
@@ -13,7 +12,7 @@ For a live demo, see my website, as it uses this theme.
   author: Your Name
   avatar: Your Avatar image (See FootNote 1)
   name_color: The color of your name
-  baseurl: /
+  baseurl: / ## If the website is your root URL, remove this line
   email: Your email
   about: A few sentances or so about you. You can use HTML elements. [e.g. <strong>, <b>, <code>, etc]
   description: >
