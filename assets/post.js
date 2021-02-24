@@ -1,4 +1,7 @@
 window.onload = function() {
+  if(performance.navigation.type == 2){
+   location.reload(true);
+ }
   var $all_msg = $('.big-header');
   var $wordList = $('title').text().split(" | " + $('.author').text())[0].split("");
   $.each($wordList, function(idx, elem) {
