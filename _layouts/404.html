@@ -17,11 +17,11 @@
       <div style="margin-top: 100px" class="d-flex flex-column align-items-center">
         <img src="{{ site.avatar }}" width="150" height="150" class="shadow-lg rounded-circle">
         <br>
-        <button type="button" onClick="location.href='/'" class="btn btn-outline-dark">Go Home</button>
+        <button type="button" onClick="location.href='/{{ site.baseurl }}'" class="btn btn-outline-dark">Go Home</button>
         <br>
-        <button type="button" onClick="location.href='projects'" class="btn btn-outline-dark">View my Projects</button>
+        <button type="button" onClick="location.href='/{{ site.baseurl }}/projects'" class="btn btn-outline-dark">View my Projects</button>
         <br>
-        <button type="button" onClick="location.href='blog'" class="btn btn-outline-dark">View my Blog</button>
+        <button type="button" onClick="location.href='/{{ site.baseurl }}/blog'" class="btn btn-outline-dark">View my Blog</button>
       </div>
     </div>
     <br>

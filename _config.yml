@@ -1,5 +1,6 @@
 title: DarkFolio
 author: DarkFolio # Your name!
+baseurl: /DarkFolio
 avatar: ../assets/avatar.svg ## Your Avatar, use the patch as if it were in "_layouts"
 name_color: Yellow ##The color of your name
 
