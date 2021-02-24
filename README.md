@@ -12,7 +12,7 @@
   author: Your Name
   avatar: Your Avatar image (See FootNote 1)
   name_color: The color of your name
-  baseurl: / ## If the website is your root URL, remove this line
+  baseurl: / ## If this is your root page, remove this line
   email: Your email
   about: A few sentances or so about you. You can use HTML elements. [e.g. <strong>, <b>, <code>, etc]
   description: >

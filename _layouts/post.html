@@ -25,9 +25,15 @@
       {% endif %}
     </footer>
     <nav class="navbar navbar-light bg-dark" style="width: 100%; padding-left: 25px; position: fixed; bottom: 0%">
-      <a class="navbar-brand text-light" href="/{{ site.baseurl }}">Go Home</a>
-      <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
-      <a class="navbar-brand text-light" href="/{{ site.baseurl }}/blog">Back to blog</a>
+      {% if site.baseurl %}
+        <a class="navbar-brand text-light" href="/{{ site.baseurl }}">Go Home</a>
+        <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
+        <a class="navbar-brand text-light" href="/{{ site.baseurl }}/blog">Back to blog</a>
+      {% else %}
+        <a class="navbar-brand text-light" href="/">Go Home</a>
+        <a href="https://github.com/{{ site.social_links.github }}"><i style="font-size: 50px; color: white" class="fab fa-github"></i></a>
+        <a class="navbar-brand text-light" href="/blog">Back to blog</a>
+      {% endif %}
     </nav>
   </body>
 </html>
