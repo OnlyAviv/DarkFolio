@@ -13,8 +13,8 @@ For a live demo, see my website, as it uses this theme.
   author: Your Name
   avatar: Your Avatar image (See FootNote 1)
   name_color: The color of your name
+  baseurl: /
   email: Your email
-
   about: A few sentances or so about you. You can use HTML elements. [e.g. <strong>, <b>, <code>, etc]
   description: >
     The description for your website
