@@ -1,11 +1,11 @@
 title: Github User
 author: Github User # Your name!
-avatar: ../assets/avatar.png ## Your Avatar, use the patch as if it were in "_layouts"
+avatar: add/your/avatar/here ## Your Avatar, use the patch as if it were in "_layouts"
 name_color: Red ##The color of your name
-baseurl: /
+base_url: /
 email: Your Email!
 
-about: I love to code using <code>JavaScript</code>, <code>HTML</code> and <code>Python</code> ## Details
+about: Add a blurb about you ## Details
 description: >
   Your amazing description!
 
