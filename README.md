@@ -61,6 +61,10 @@ The `about` is for a few sentences about you or the project. you can use HTML el
 
 The `description` is if you want to put your site on google. It would be the little bit of text shown.
 
+---
+
+![projects](https://user-images.githubusercontent.com/38299977/109176314-ae4a5f80-7754-11eb-8f48-771de12b80a6.png)
+
 #### `Projects`
 
   For each project you have, you add the following to the projects
@@ -78,6 +82,9 @@ The `description` is if you want to put your site on google. It would be the lit
 `permalink` is not for modification.
 
 ---
+
+![Blog](https://user-images.githubusercontent.com/38299977/109176680-0d0fd900-7755-11eb-9e08-f76d8aedb84b.png)
+
 
 ## Creating Posts
 To create a post, add a file to the `_posts` directory named `YYYY-MM-DD-TITLE.md`, `YYYY-MM-DD` is the date. `Y` is year, `M` is month, and `D` is day. The `TITLE` is just for the path. Set it something short, like `Welcome`, or something long like `Did-you-know-that-when-you-put-1-and-1-together-it-makes-2`.
