@@ -3,7 +3,7 @@
 
 #### [live demo](https://redyetidev.github.io/DarkFolio)
 ---
-
+[![Version](https://badge.fury.io/rb/DarkFolio.svg)](https://badge.fury.io/rb/DarkFolio)
 ## Installing DarkFolio
 
 ### Option 1: Install From GitHub
