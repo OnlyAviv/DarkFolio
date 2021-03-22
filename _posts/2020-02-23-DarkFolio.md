@@ -21,7 +21,7 @@ Following the instructions below will help you understand how to use and customi
 <br><br>
 #### Modifying the `_config.yml` file
 The `_config.yml` file looks like the one below
-<iframe src="https://redyetidev.github.io/embedCode/sourcecode/index.html?url=https://raw.githubusercontent.com/RedYetiDev/DarkFolio/main/_config.yml&numbers=true" width="100%" height="400"></iframe>
+<iframe src="https://raw.githubusercontent.com/RedYetiDev/DarkFolio/main/_config.yml" width="100%" height="400"></iframe>
 
 Let's start with the first 6 lines.
 ```yaml
