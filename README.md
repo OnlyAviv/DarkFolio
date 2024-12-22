@@ -7,7 +7,7 @@
 ## Installing DarkFolio
 
 ### Option 1: Install From GitHub
-1. Fork DarkFolio on the [github repo](https://github.com/RedYetiDev/DarkFolio)
+1. Fork DarkFolio on the [github repo](https://github.com/OnlyAviv/DarkFolio)
 2. Rename your new repo how you would like.
 3. Download the repo using `git clone https://github.com/your username/repo name` [e.g. `git clone https://github.com/onlyaviv/DarkFolio`].
 
