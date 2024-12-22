@@ -1,7 +1,7 @@
 ![ScreenShot](screenshot.png)
 # Portfolio Theme
 
-#### [live demo](https://redyetidev.github.io/DarkFolio)
+#### [live demo](https://onlyaviv.com/DarkFolio)
 ---
 [![Version](https://badge.fury.io/rb/DarkFolio.svg)](https://badge.fury.io/rb/DarkFolio)
 ## Installing DarkFolio
@@ -9,7 +9,7 @@
 ### Option 1: Install From GitHub
 1. Fork DarkFolio on the [github repo](https://github.com/RedYetiDev/DarkFolio)
 2. Rename your new repo how you would like.
-3. Download the repo using `git clone https://github.com/your username/repo name` [e.g. `git clone https://github.com/redyetidev/DarkFolio`].
+3. Download the repo using `git clone https://github.com/your username/repo name` [e.g. `git clone https://github.com/onlyaviv/DarkFolio`].
 
 ### Option 2: Install From bundler
 - If you are installing this theme on a already setup site, skip step 1
