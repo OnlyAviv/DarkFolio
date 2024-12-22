@@ -1,9 +1,9 @@
 Gem::Specification.new do |spec|
   spec.name          = "DarkFolio"
   spec.version       = "0.1.0"
-  spec.authors       = ["RedYetiDev"]
-  spec.author        = 'RedYetiDev'
-  spec.email         = "redyetidev@gmail.com"
+  spec.authors       = ["Aviv Keller"]
+  spec.author        = 'Aviv Keller'
+  spec.email         = "hello@onlyaviv.com"
   spec.post_install_message = "Thanks for installing DarkFolio, If you need help, check out the bug tracker."
   spec.summary       = "The DarkFolio theme is a simple theme containing a index page, blog page, and projects page"
   spec.description   = <<-EOF
